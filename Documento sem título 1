@@ -1,0 +1,25 @@
+CD -> Change directory (Acessar pasta. Ex: cd Documentos/)
+CD .. -> Acessar pasta pai
+LS -> Lista (Listar pastas)
+MKDIR -> Make directory
+Touch -> Criar arquivo
+RM -> Render
+RM -RF -> Remover pasta
+PWD -> Print working directory (mostrar o caminho das pastas)
+
+GIT:
+
+git init
+
+git remote (add, rm, -v)
+
+git add (., nome arquivo)
+
+git commit -m "mensagem"
+
+git push -u Nome do repositório (geralmente origin) Nome da branch
+Exemplo: git push origin main
+
+git pull
+
+git clone
